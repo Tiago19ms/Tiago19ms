@@ -1,5 +1,9 @@
-## Olá! Eu sou o Tiago Moreira 🖐️
 
+👋 Olá! Sou o Tiago (@Tiago19ms)
+
+👀 Tenho interesse em [área de interesse, como desenvolvimento web, inteligência artificial, segurança cibernética, etc.]
+
+🌱 Atualmente estou aprendendo [Java, JavaScript, Modelagem de banco de dados e Cyber Segurança]
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tiago_19ms)
 
