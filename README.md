@@ -6,6 +6,7 @@
 🌱 Atualmente estou aprendendo [Java, JavaScript, Modelagem de banco de dados e Cyber Segurança]
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tiago_19ms)
+[![Gmail](https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Gmail.com/tiagomoreiradasilva178@gmail.com)
 
 ## Tecnologias que eu uso no meu dia
 
