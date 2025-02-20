@@ -6,7 +6,7 @@
 🌱 Atualmente estou aprendendo [Java, JavaScript, Modelagem de banco de dados e Cyber Segurança]
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tiago_19ms)
-[![Gmail](https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Gmail.com/tiagomoreiradasilva178@gmail.com)
+<a href = "mailto:tiagomoreiradasilva178@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Tecnologias que eu uso no meu dia
 
