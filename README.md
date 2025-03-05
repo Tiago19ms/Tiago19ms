@@ -31,6 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
@@ -63,11 +64,11 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="https://media.tenor.com/9yeIkbqzMVcAAAAM/regular-show-mordicai.gif"  />
-</div>
+<img align="left" height="200" src="https://i.pinimg.com/originals/fe/ae/a8/feaea85adcadf3370d4900825705dfc2.gif"  />
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Tiago19ms/Tiago19ms/output/snake.svg" alt="Snake animation" />
 
@@ -75,15 +76,18 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tiago19ms&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiago19ms&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiago19ms&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&order=2" height="122" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Tiago19ms&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=Tiago19ms&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tiago19ms&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="160" alt="stats graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiago19ms&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Tiago19ms.Tiago19ms&left_color=aquamarine"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tiago19ms.Tiago19ms&left_color=aquamarine"  />
 
 ###
