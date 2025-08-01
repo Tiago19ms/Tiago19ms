@@ -1,4 +1,4 @@
-<h1 align="left">Olá sou Tiago Moreira 😎</h1>
+<h1 align="left">Olá sou Tiago Moreira </h1>
 
 ###
 
