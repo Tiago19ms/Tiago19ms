@@ -6,7 +6,9 @@
 
 ###
 
-<h4 align="left">Sou estudante em tecnico em desnvolvimento de sistemas  🤓📕</h4>
+<h4 align="left">Sou formado em tecnico em desnvolvimento de sistemas  🤓📕
+                e estou estudando ADS na Fatec Itu - Dom Amaury Castanho
+</h4>
 
 ###
 
