@@ -1,79 +1,101 @@
-<h1 align="left">Olá sou Tiago Moreira </h1>
+<div align="center">
 
-###
+# Tiago Moreira da Silva
 
-<p align="left">Sou de Sorocaba SP Brasil</p>
+### Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Back-end em Formação
 
-###
+📍 Sorocaba, São Paulo - Brasil
 
-<h4 align="left">Sou formado em tecnico em desnvolvimento de sistemas  🤓📕
-                e estou estudando ADS na Fatec Itu - Dom Amaury Castanho
-</h4>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/tiago-moreira-da-silva-3a356931b/)
+[![Instagram](https://img.shields.io/badge/Instagram-@tiago__19ms-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/tiago_19ms/)
+[![GitHub](https://img.shields.io/badge/GitHub-Tiago19ms-181717?style=for-the-badge\&logo=github)](https://github.com/Tiago19ms)
 
-###
-
-<h2 align="left">💻linguagens:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
 </div>
 
-###
+---
 
-<h2 align="left">⚙ferramentas:</h2>
+## 👨‍💻 Sobre Mim
 
-###
+Sou formado em **Técnico em Desenvolvimento de Sistemas** e atualmente curso **Análise e Desenvolvimento de Sistemas na FATEC Itu – Dom Amaury Castanho**.
 
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+Tenho interesse em desenvolvimento de software, banco de dados, análise de sistemas e soluções tecnológicas que gerem impacto real. Estou constantemente aprimorando minhas habilidades por meio de projetos acadêmicos, estudos práticos e desafios de programação.
+
+Meu objetivo é iniciar minha trajetória profissional na área de tecnologia, contribuindo para equipes de desenvolvimento e adquirindo experiência em projetos de grande relevância.
+
+---
+
+## 🚀 Tecnologias
+
+### Linguagens
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
+</p>
+
+### Desenvolvimento Web
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS"/>
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
+</p>
+
+---
+
+## 🎯 Objetivos Profissionais
+
+* Desenvolver carreira como Desenvolvedor Back-end.
+* Aprimorar conhecimentos em Java, Python e Banco de Dados.
+* Participar de projetos de desenvolvimento de software.
+* Contribuir para soluções tecnológicas inovadoras.
+* Evoluir continuamente por meio de aprendizado e experiência prática.
+
+---
+
+## 📈 Estatísticas GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tiago19ms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago19ms&layout=compact&theme=tokyonight"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Tiago19ms&theme=tokyonight"/>
+
 </div>
 
-###
+---
 
-<h2 align="left">📱Entre em contato comigo</h2>
+## 📚 Atualmente Estudando
 
-###
+* Estrutura de Dados
+* Programação Orientada a Objetos
+* Banco de Dados Relacional
+* Engenharia de Software
+* Desenvolvimento Web
+* Análise de Sistemas
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/tiago-moreira-da-silva-3a356931b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/tiago_19ms/?next=%2F" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Ego%C3%ADstaBr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100072569541813" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
+---
+
+<div align="center">
+
+### "Transformando conhecimento em soluções através da tecnologia."
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Tiago19ms.Tiago19ms"/>
+
 </div>
-
-###
-
-<img align="left" height="200" src="https://i.pinimg.com/originals/fe/ae/a8/feaea85adcadf3370d4900825705dfc2.gif"  />
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tiago19ms&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Tiago19ms&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiago19ms&radius=16&theme=react&area=true&order=5" height="150" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Tiago19ms&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Tiago19ms&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tiago19ms.Tiago19ms&"  />
-
-###
