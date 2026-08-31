@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/tiago-moreira-da-silva-3a356931b/)
 [![Instagram](https://img.shields.io/badge/Instagram-@tiago__19ms-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/tiago_19ms/)
 [![GitHub](https://img.shields.io/badge/GitHub-Tiago19ms-181717?style=for-the-badge\&logo=github)](https://github.com/Tiago19ms)
+[![FaceBook](https://img.shields.io/badge/Facebook-@tiago-181717?style=for-the-badge\&logo=github)]("https://www.facebook.com/profile.php?id=100072569541813")
 
 </div>
 
