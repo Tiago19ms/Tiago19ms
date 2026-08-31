@@ -110,4 +110,56 @@ Técnico em Desenvolvimento de Sistemas
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Tiago19ms.Tiago19ms"/>
 
 </div>
-****
+📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tiago19ms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago19ms&layout=compact&theme=tokyonight"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Tiago19ms&theme=tokyonight"/>
+
+</div>
+
+🏆 Conquistas GitHub
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tiago19ms&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+📈 Gráfico de Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiago19ms&theme=tokyo-night"/>
+
+</div>
+
+⚡ Resumo de Atividade
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tiago19ms&theme=tokyonight"/>
+
+</div>
+
+📅 Produtividade
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tiago19ms&theme=tokyonight"/>
+
+</div>
+
+💻 Resumo Técnico
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tiago19ms&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tiago19ms&theme=tokyonight"/>
+
+</div>
